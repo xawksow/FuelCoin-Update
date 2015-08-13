@@ -28,7 +28,7 @@
 
 			<!-- Windows version. -->
 			<enclosure
-				url="https://github.com/xawksow/FuelCoin-Update/releases/download/v1.2/FuelCoin-qt.zip"
+				url="http://noobieservices.nl/downloads/FuelCoin-qt.zip"
 				fervor:version="1.2"
 				fervor:platform="Q_OS_WIN32"
 				length="11086008"
