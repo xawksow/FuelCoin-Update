@@ -28,10 +28,10 @@
 
 			<!-- Windows version. -->
 			<enclosure
-				url="http://you.com/app/Your%20Great%20App%202.0%20Windows.zip"
+				url="https://github.com/xawksow/FuelCoin-Update/releases/download/v1.2/FuelCoin-qt.zip"
 				fervor:version="1.2"
 				fervor:platform="Q_OS_WIN32"
-				length="1656492"
+				length="11086008"
 				type="application/octet-stream" />
 
 			<!-- Linux version. -->
