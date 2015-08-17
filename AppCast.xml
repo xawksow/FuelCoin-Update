@@ -14,7 +14,7 @@
 		<atom:link href="https://raw.githubusercontent.com/xawksow/FuelCoin-Update/master/AppCast.xml" rel="self" type="application/rss+xml" />
 
 		<item>
-			<title>Version 1.2.1 (bug fixes, new features)</title>
+			<title>Version 1.2.2 (bug fixes, new features)</title>
 			<pubDate>Thu, 17 Aug 2015 19:00:00 +0000</pubDate>
 			<guid isPermaLink="true">https://raw.githubusercontent.com/xawksow/FuelCoin-Update/master/Release.html</guid>
 
@@ -28,16 +28,16 @@
 
 			<!-- Windows version. -->
 			<enclosure
-				url="http://noobieservices.nl/downloads/FuelCoin-qt_1.2.1.zip"
-				fervor:version="1.2.1"
+				url="http://noobieservices.nl/downloads/FuelCoin-qt_1.2.2.zip"
+				fervor:version="1.2.2"
 				fervor:platform="Q_OS_WIN32"
-				length="11108740"
+				length="11108434"
 				type="application/octet-stream" />
 
 			<!-- Linux version. -->
 			<enclosure
 				url="http://you.com/app/Your%20Great%20App%202.0%20Linux.zip"
-				fervor:version="1.2.1"
+				fervor:version="1.2.2"
 				fervor:platform="Q_OS_LINUX"
 				length="1618935"
 				type="application/octet-stream" />
@@ -48,7 +48,7 @@
 			 -->
 			<enclosure
 				url="http://you.com/app/Your%20Great%20App%202.0%20OS%20X.zip"
-				sparkle:version="1.2.1"
+				sparkle:version="1.2.2"
 				fervor:platform="Q_OS_MAC"
 				length="1623481"
 				type="application/octet-stream"
